@@ -1,3 +1,5 @@
+### Automated Email Response and Segregation using UiPath
+
 This project aims to streamline email management processes through automation, focusing on two primary objectives: Automated Email Response and Email Segregation. The system is designed to efficiently handle incoming emails by automatically responding to emails based on sender subject and filtering emails by sender email address and attachments.
 
 # Features
